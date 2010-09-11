@@ -1,0 +1,19 @@
+<plugin name='tiny-mce' version='0.2' grailsVersion='1.1 &gt; *'>
+  <author>S Vivek Krishna</author>
+  <title>TinyMce</title>
+  <description>\ A plugin with the tinyMce editor javascript and tags to embed the editor in your GSP pages
+
+                      </description>
+  <documentation>http://grails.org/plugin/tiny-mce</documentation>
+  <resources>
+    <resource>TinyMceConfig</resource>
+    <resource>com.intelligrape.TinyMceService</resource>
+    <resource>com.intelligrape.TinyMceTagLib</resource>
+  </resources>
+  <dependencies>
+    <resolvers>
+      <resolver type='grailsPlugins' name='grailsPlugins' />
+    </resolvers>
+  </dependencies>
+  <behavior />
+</plugin>
