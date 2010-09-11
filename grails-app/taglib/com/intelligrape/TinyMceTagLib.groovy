@@ -27,7 +27,7 @@ class TinyMceTagLib {
         out << """<textarea """
         attrs.each{key, value->
 
-          out << key + "=" + "'value'"
+          out << key + "=" + "'${value}'"
         }
         out << "class" + "=" + "'${classToApply}'"
         out << """>"""
