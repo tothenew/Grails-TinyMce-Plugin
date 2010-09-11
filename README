@@ -1,5 +1,5 @@
-<a href="http://tinymce.moxiecode.com/index.php">TinyMCE</a> is a platform independent web based JavaScript HTML WYSIWYG editor. It has the ability to convert HTML Textarea fields to editor instances.
+TinyMCE is a platform independent web based JavaScript HTML WYSIWYG editor. It has the ability to convert HTML Textarea fields to editor instances.
 
 This plugin provides grails tags to easily include and use the TinyMCE in your grails application.
 
-For more information on how to install and use the plugin, refer to the <a href="http://github.com/IntelliGrape/Grails-TinyMce-Plugin/wiki">Wiki Pages</a>.
+For more information on how to install and use the plugin, refer to the Wiki Pages.
