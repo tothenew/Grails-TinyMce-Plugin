@@ -1,4 +1,4 @@
-<plugin name='tiny-mce' version='0.1.1' grailsVersion='1.1 &gt; *'>
+<plugin name='tiny-mce' version='0.1.2' grailsVersion='1.1 &gt; *'>
   <author>S Vivek Krishna</author>
   <authorEmail>vivek[at]intelligrape.com</authorEmail>
   <title>TinyMce</title>
