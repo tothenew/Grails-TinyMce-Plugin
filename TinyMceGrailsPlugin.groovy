@@ -1,6 +1,6 @@
 class TinyMceGrailsPlugin {
     // the plugin version
-    def version = "0.1.1"
+    def version = "0.1.2"
     // the version or versions of Grails the plugin is designed for
     def grailsVersion = "1.1 > *"
     // the other plugins this plugin depends on
@@ -11,7 +11,7 @@ class TinyMceGrailsPlugin {
     ]
 
     def author = "S Vivek Krishna"
-    def authorEmail = ""
+    def authorEmail = "vivek[at]intelligrape.com"
     def title = "TinyMce"
     def description = '''\\ A plugin with the tinyMce editor javascript and tags to embed the editor in your GSP pages
 

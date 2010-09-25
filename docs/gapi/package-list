@@ -1,5 +1,2 @@
 DefaultPackage
-grails-app.conf
-grails-app.services.com.intelligrape
-grails-app.taglib.com.intelligrape
-scripts
+org.grails.plugins.tinymce
